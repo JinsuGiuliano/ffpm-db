@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS blessed(_id INTEGER PRIMARY KEY NOT NULL, "fecha" TEXT, "lugar" TEXT, "nom_H" TEXT, "nom_M" TEXT, "nac_H" TEXT, "nac_M" TEXT, "nacionalidad" TEXT, "telefono" TEXT);
+
+("CREATE TABLE IF NOT EXISTS Games (_id INTEGER PRIMARY KEY, Name
+VARACHAR, NPlayers INT(1), NRounds INT(2), WinScore INT(2));" 
+
+
+
+0986. 270_009.
